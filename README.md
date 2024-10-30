@@ -1,4 +1,4 @@
-# DRIVING SIMULATION GAME
+<h1 align="center">DRIVING SIMULATION GAME</h1>
 
 ## RoadWise Adventures
 
