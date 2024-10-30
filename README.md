@@ -1,13 +1,39 @@
 <h1 align="center">DRIVING SIMULATION GAME</h1>
 
-## RoadWise Adventures
+## Project Overview
 
-**RoadWise Adventures** is an educational driving simulation game set in various conditions and environments. The main objective of the game is to inform and raise awareness among players about road rules as well as to provide knowledge on traffic signs.
+This project is a standalone driving simulation that showcases core elements of vehicle movement, physics, camera functionality, and a heads-up display (HUD). The game allows players to control a car with realistic physics, demonstrating acceleration, braking, and steering. It includes camera tracking and a dynamic speedometer HUD for an immersive driving experience.
 
-## Development Details
+Play the demo here: [Driving Simulation Demo on Unity Play](https://play.unity.com/en/games/9ad14b50-d56d-46ae-ae4d-5eea644f2288/driving-simulator)
 
-- **Platform:** Unity
-- **Version:** 2022.3.3f1
+---
 
+## Game Features
+
+- **Realistic Car Physics**: Drive a vehicle with accurate acceleration, braking, and handling mechanics.
+- **Camera Follow System**: A smooth-follow camera that tracks the car’s movement and rotation.
+- **HUD Elements**: Includes a speedometer and engine audio that adjusts based on the car’s speed.
+
+---
+
+## Script Descriptions
+
+The simulation includes three primary scripts, each responsible for different aspects of the game mechanics:
+
+1. **CarController.cs**  
+   This script is responsible for all aspects of vehicle control and movement. It includes:
+   - **Motor and Brake Forces**: Applies forces for acceleration and braking based on player input.
+   - **Steering Mechanics**: Adjusts the car’s wheels for realistic turning.
+   - **Deceleration**: Gradually slows the car when no input is provided.
+   - **Wheel Transform Updates**: Synchronizes visual wheel positions with physics-based wheel colliders.
+
+2. **CarHUDController.cs**  
+   This script controls the HUD elements and engine audio based on the car’s speed. It includes:
+   - **Speedometer**: Displays the car’s speed with a rotating needle and speed text.
+   - **Engine Audio**: Adjusts the audio pitch to match the vehicle’s speed.
+     
+3. **CameraFollow.cs**  
+   This script manages the camera's position and rotation to follow the car. It smoothly translates the camera based on a configurable offset and rotates it to keep the car in view.
+---
 
 
