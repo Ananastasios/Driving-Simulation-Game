@@ -45,9 +45,16 @@ In the complete game, players are educated on essential traffic rules, encourage
 
 1. **First Track**: This environment simulates a city setting, where players will learn about urban traffic signs and rules.
 2. **Second Track**: This environment represents a highway, focusing on the traffic signs and regulations specific to highway driving.
+---
 
 ## Video Demonstration
 Short video of *RoadWise Adventures* gameplay [here](https://drive.google.com/file/d/1ehOVcT6NwC3WCGqtkFxkCFb0wssDco7d/view?usp=drive_link).
+---
+
+## Development Details
+
+- **Platform:** Unity
+- **Version:** 2022.3.3f1
 
 
 
