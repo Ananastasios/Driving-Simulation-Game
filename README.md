@@ -4,7 +4,7 @@
 
 This project is a standalone driving simulation that showcases core elements of vehicle movement, physics, camera functionality, and a heads-up display (HUD). The game allows players to control a car with realistic physics, demonstrating acceleration, braking, and steering. It includes camera tracking and a dynamic speedometer HUD for an immersive driving experience.
 
-Play the demo here: [Driving Simulation Demo on Unity Play](https://play.unity.com/en/games/9ad14b50-d56d-46ae-ae4d-5eea644f2288/driving-simulator)
+Play here: [Driving Simulator on Unity Play](https://play.unity.com/en/games/9ad14b50-d56d-46ae-ae4d-5eea644f2288/driving-simulator)
 
 ---
 
@@ -18,7 +18,6 @@ Play the demo here: [Driving Simulation Demo on Unity Play](https://play.unity.c
 
 ## Script Descriptions
 
-The simulation includes three primary scripts, each responsible for different aspects of the game mechanics:
 
 1. **CarController.cs**  
    This script is responsible for all aspects of vehicle control and movement. It includes:
