@@ -35,4 +35,11 @@ Play here: [Driving Simulator on Unity Play](https://play.unity.com/en/games/9ad
    This script manages the camera's position and rotation to follow the car. It smoothly translates the camera based on a configurable offset and rotates it to keep the car in view.
 ---
 
+## About RoadWise Adventures
+
+This project is a part of *RoadWise Adventures*, a larger educational driving simulation game. Developed to promote road safety and driving awareness, *RoadWise Adventures* offers a comprehensive learning experience by allowing players to explore diffrent driving environments, encounter different road signs, and practice safe driving techniques.
+
+In the complete *RoadWise Adventures* game, players are educated on essential traffic rules, encouraged to follow road safety guidelines, and gain experience identifying and responding to real-world traffic signals. This simulation demo, focused primarily on vehicle dynamics, HUD elements, and camera functionality, serves as a foundational component of the *RoadWise Adventures* project, providing the core driving mechanics.
+
+
 
