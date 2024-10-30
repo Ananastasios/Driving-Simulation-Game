@@ -47,7 +47,7 @@ In the complete game, players are educated on essential traffic rules, encourage
 2. **Second Track**: This environment represents a highway, focusing on the traffic signs and regulations specific to highway driving.
 
 ## Video Demonstration
-Watch the video demonstration of *RoadWise Adventures* [here](https://drive.google.com/file/d/1ehOVcT6NwC3WCGqtkFxkCFb0wssDco7d/view?usp=drive_link).
+Short video of *RoadWise Adventures* gameplay [here](https://drive.google.com/file/d/1ehOVcT6NwC3WCGqtkFxkCFb0wssDco7d/view?usp=drive_link).
 
 
 
